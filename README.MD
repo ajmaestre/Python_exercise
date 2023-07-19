@@ -8,10 +8,7 @@ Los siguientes son un ejemplo de los enunciados de los ejercicios:
 **Ejercicio 1: Suma dos matrices (lab0101)**
 Completa la función suma_matrices para que, dadas dos arrays numpy cualquiera devuelva la suma elemento a elemento.
 
-def suma_matrices(a,b):
-    ## --- TU CODIGO AQUI ---
-    result = .... 
-    return result
+![lab0101-1](images/lab0101.png)
 
 
 **Ejercicio 2: Realiza un cálculo (lab0101)**
@@ -19,9 +16,8 @@ En este ejercicio, al ejecutar la celda de más abajo, se generará una lista de
 Tendrás que calcular el valor promedio de la lista y asignarlo a la variable avg más abajo.
 Puedes usar el método que quieras para realizar el cálculo (a mano, excel, python, etc.) lo que importa es el valor que obtengas.
 
-import numpy as np
-rlist = np.random.randint(100, size=10)
-rlist
+![lab0101-2](images/lab0101-2.png)
+
 
 
 ## Autor
